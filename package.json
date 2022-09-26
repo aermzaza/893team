@@ -1,0 +1,17 @@
+{
+  "name": "combo168",
+  "main": "combo168",
+  "theme": "syntax",
+  "version": "2.45.0",
+  "description": "combo168 สล็อตแตกง่าย จ่ายจริง สมัครวันนี้ฟรีเครดิต",
+  "keywords": [
+    "สล็อตแตกง่าย",
+    "PG สล็อต",
+    "สล็อตฟรีเครดิต"
+  ],
+  "repository": "https://github.com/aermzaza/893team",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
